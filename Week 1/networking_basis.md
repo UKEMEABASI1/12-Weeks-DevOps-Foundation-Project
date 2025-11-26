@@ -1,6 +1,6 @@
-# Networking Basics
+# Networking Basics document for AWS
 
-This document provides a clear overview of essential networking and security concepts used in AWS and modern cloud infrastructures.
+This document provides a clear overview of essential networking and security concepts used in AWS and modern cloud infrastructures, including public and private subnets, security groups, DNS record types, and SSH key pairs.
 ---
 ## 1. Public Subnet
 A **public subnet** is a subnet within a Virtual Private Cloud (VPC) that has a direct route to the internet through an **Internet Gateway (IGW)**.  
